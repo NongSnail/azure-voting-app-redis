@@ -1,7 +1,7 @@
 on: [push]
 
 env:
-          REGISTRY_NAME: demonongsnailaks
+          REGISTRY_NAME: demotestnongsnail
           CLUSTER_NAME: myAKSCluster
           CLUSTER_RESOURCE_GROUP: Test_AKS
           NAMESPACE: default
